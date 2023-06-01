@@ -27,7 +27,6 @@ archive.zip
 .*.sw?
 /log/*
 /fastapi/*
-/fastapi/*
 
 # Gradle files
 .gradle/
@@ -38,6 +37,7 @@ local.properties
 
 # Log/OS Files
 *.log
+*.fast_env
 
 # Android Studio generated files and folders
 captures/
