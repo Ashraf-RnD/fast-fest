@@ -19,7 +19,7 @@ conda install -c anaconda pymongo
 Run the docker-compose : `docker-compose up -d` <br>
 Start the web server :
 ```
-uvicorn main:app --host localhost --port 7108
+uvicorn main:app --host localhost --port 9501
 or just run dev.sh
 ```
 Deactivate the virtual environment : `deactivate` <br>
